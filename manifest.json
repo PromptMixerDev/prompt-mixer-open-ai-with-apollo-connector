@@ -1,0 +1,11 @@
+{
+  "id": "prompt-mixer-open-ai-with-apollo-connector",
+  "name": "OpenAI with Apollo Connector",
+  "version": "1.0.0",
+  "minAppVersion": "0.1.0",
+  "description": "OpenAI Connector with Apollo Search Function",
+  "author": "Prompt Mixer",
+  "authorUrl": "https://promptmixer.dev",
+  "fundingUrl": "https://promptmixer.dev/pricing",
+  "isDesktopOnly": false
+}
